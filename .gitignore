@@ -2,3 +2,4 @@ data/
 .Rprofile
 renv.lock
 renv/
+.DS_Store
