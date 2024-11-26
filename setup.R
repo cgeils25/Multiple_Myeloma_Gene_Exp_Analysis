@@ -8,3 +8,5 @@ renv::install('ggplot2')
 renv::install("GEOquery")
 renv::install("DESeq2")
 renv::install("shiny")
+
+renv::snapshot()
