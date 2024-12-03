@@ -14,7 +14,7 @@ Note: for the R package pathfindR to work, you need to have Java >= 8.0 installe
 Test imports with:
 
 ```bash
-R -f test_imports.R
+FIGURE OUT HOW THIS WILL WORK
 ```
 
 Next, download the associated dataset with:
