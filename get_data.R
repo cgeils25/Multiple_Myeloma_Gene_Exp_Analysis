@@ -21,5 +21,8 @@ metadata = Meta(gse)
 # extract expression count data as R data frame
 data = as.data.frame(Table(gse))
 
+# remove the rows that are null
+data_no_null = data[complete.cases(data), ]
+
 # save expression count data
-write.csv(data, 'data/GDS5826.csv', row.names = FALSE)
+write.csv(data_no_null, 'data/GDS5826.csv', row.names = FALSE)
