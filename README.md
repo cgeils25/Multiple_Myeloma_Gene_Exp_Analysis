@@ -11,11 +11,6 @@ Note: for the R package pathfindR to work, you need to have Java >= 8.0 installe
 [Java for Mac](https://www.java.com/en/download/)
 [Java for Windows](https://www.java.com/download/ie_manual.jsp)
 
-Test imports with:
-
-```bash
-FIGURE OUT HOW THIS WILL WORK
-```
 
 Next, download the associated dataset with:
 
