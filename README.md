@@ -7,6 +7,10 @@ Some of my findings for this analysis include:
   - an approximately normal distribution of gene expression changes about mean 0
   - A marked increase in expression of the gene MGST1 or microsomal glutathione S-transferase 1, which is associated with inflammation. This suggests that inflammatory response is associated with resistance to Carfilzomib, and could be targeted.
 
+![corr](images/corr.png)
+![bar](images/bar.png)
+![dist](images/dist.png)
+
 ## Setup
 
 To create an renv virtual environment with the necessary packages, run:
